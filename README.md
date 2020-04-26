@@ -8,6 +8,8 @@ This Project present how to associate regions in a camera image with Lidar point
 
 ![](https://williamhyin-1301408646.cos.ap-shanghai.myqcloud.com/img/20200425152627.png)
 
+**For more details, please check my [blog](https://blog.csdn.net/williamhyin/article/details/105758006).**
+
 ## Dependencies for Running Locally
 * cmake >= 2.8
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
